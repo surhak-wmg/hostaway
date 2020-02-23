@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "first_name": "Andrew",
+      "last_name": "Delarue"
+    },
+    {
+      "id": "user2",
+      "first_name": "Szymon",
+      "last_name": "Jefferson"
+    },
+    {
+      "id": "user3",
+      "first_name": "Frankie",
+      "last_name": "Conrad"
+    },
+    {
+      "id": "user4",
+      "first_name": "Jamie-Lee",
+      "last_name": "Anthony"
+    },
+    {
+      "id": "user5",
+      "first_name": "Kaeden",
+      "last_name": "Rhodes"
+    },
+    {
+      "id": "user6",
+      "first_name": "Aleyna",
+      "last_name": "Gross"
+    }
+  ],
+  "tasks": [
+    {
+      "user": "Andrew Delarue",
+      "user_id": "user1",
+      "start_at": "23 February 2020 - 8: 13",
+      "due_at": "23 February 2020 - 8: 13",
+      "text": "fadfsdfgsfsdf",
+      "task_title": "asdasd",
+      "id": 7
+    },
+    {
+      "user": "Andrew Delarue",
+      "user_id": "user1",
+      "start_at": "23 February 2020 - 8: 37",
+      "due_at": "23 February 2020 - 8: 37",
+      "text": "",
+      "task_title": "afggg",
+      "id": 8
+    },
+    {
+      "user": "Andrew Delarue",
+      "user_id": "user1",
+      "start_at": "23 February 2020 - 9: 7",
+      "due_at": "23 February 2020 - 9: 7",
+      "text": "",
+      "task_title": "",
+      "id": 9
+    },
+    {
+      "user": "Andrew Delarue",
+      "user_id": "user1",
+      "start_at": "23 February 2020 - 9: 10",
+      "due_at": "23 February 2020 - 9: 10",
+      "text": "",
+      "task_title": "ads",
+      "id": 10
+    },
+    {
+      "user": "Andrew Delarue",
+      "user_id": "user1",
+      "start_at": "23 February 2020 - 9: 11",
+      "due_at": "23 February 2020 - 9: 11",
+      "text": "dsfsdf",
+      "task_title": "asfad",
+      "id": 11
+    }
+  ]
+}
