@@ -1,3 +1,7 @@
+1. clone or download code from github
+2. json-server --watch db.json
+3. npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
